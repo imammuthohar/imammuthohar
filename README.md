@@ -1,6 +1,6 @@
 <h1>Hi! We are Imam Muthohar </h1>
 
-We have a lot of experience with  Near, Ethereum and React, Our main focus is Blockchain Application.
+I am an expert in the field of web developoer
 
 If you wish to contact us, you can reach us at immut07@gmail.com
 
